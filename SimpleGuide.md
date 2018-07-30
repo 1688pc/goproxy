@@ -2,9 +2,9 @@
 
 - 部署
 
-  1. 申请 [Google Appengine](https://appengine.google.com) 并创建 appid。
-  1. 到 https://github.com/phuslu/goproxy-ci/releases/latest 下载 goproxy-gae-rXX.zip 服务端部署文件。
-  1. 运行 uploader.bat 或 uploader.py 开始上传, 过程中需访问 google 页面并输入授权码， 上传完成后即可使用了。
+1. 申请 [Google Appengine](https://appengine.google.com) 并创建 appid。
+1. 到 https://github.com/phuslu/goproxy-ci/releases/latest 下载 goproxy-gae-rXX.zip 服务端部署文件。
+1. 运行 uploader.bat 或 uploader.py 开始上传, 过程中需访问 google 页面并输入授权码， 上传完成后即可使用了。
 
 - 使用
 
